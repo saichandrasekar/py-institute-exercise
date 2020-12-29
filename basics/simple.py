@@ -55,3 +55,14 @@ kilometers_to_miles = kilometers / 1.61
 
 print(miles, "miles is", round(miles_to_kilometers, 4), "kilometers")
 print(kilometers, "kilometers is", round(kilometers_to_miles, 2), "miles")
+
+
+a = 6
+b = 3
+#a /= 2 * b
+a = a / (2 * b)
+print(a)
+
+# this is a multiline
+comment#
+print(2)
